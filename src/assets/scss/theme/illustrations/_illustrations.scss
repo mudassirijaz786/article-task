@@ -1,0 +1,15 @@
+[class*="illustration-"] {
+  position: relative;
+
+  &::after {
+    pointer-events: none;
+  }
+}
+
+[class*="illustration-element-"]::after {
+  z-index: -1;
+}
+
+[class*="illustration-section-"]::after {
+  z-index: -2;
+}

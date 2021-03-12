@@ -1,0 +1,155 @@
+.miningSalad {
+  position: static;
+  width: 500px;
+  height: 68px;
+  left: 0px;
+  top: 0px;
+  font-family: Mallory;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 34px;
+  /* or 106% */
+  /* Primary/Dark Blue */
+  color: #0a2133;
+  /* Inside Auto Layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 36px 0px;
+}
+
+.imageBackground {
+  position: relative;
+  background-repeat: repeat-y;
+  width: 1024px;
+  height: 515px;
+  left: 0px;
+  top: 10px;
+  margin-bottom: 40px;
+  background: url("../images//image.svg");
+}
+
+.firstParagraph {
+  position: static;
+  width: 500px;
+  height: 378px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Flecha Test S;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 150%;
+  /* or 27px */
+
+  /* Text / Normal */
+
+  color: #0a2133;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 36px 0px;
+}
+
+.secondHeading {
+  margin-left: 16.5%;
+  position: static;
+  width: 500px;
+  margin-bottom: 3%;
+  height: 52px;
+
+  /* Base / XL */
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+}
+
+.secondParagraph {
+  margin-left: 30%;
+  position: static;
+  width: 500px;
+  height: 135px;
+  left: 0px;
+  top: 502px;
+
+  font-family: Flecha Test S;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 150%;
+  /* or 27px */
+
+  /* Text / Normal */
+
+  color: #0a2133;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  margin: 36px 0px;
+}
+
+.svg {
+  margin-left: 16.5%;
+  width: 500px;
+  height: 298px;
+
+  left: 0px;
+  top: 0px;
+
+  /* Background */
+
+  background: #eeeeee;
+  /* Border / Subtle */
+
+  border: 2px solid #aaaaaa;
+  box-sizing: border-box;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.listing {
+  margin-left: 26.5%;
+  margin-top: 20px;
+  font-family: Flecha Test S;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 150%;
+}
+
+.secondHeadingSmall {
+  width: auto;
+  height: auto;
+  margin-bottom: 25%;
+  height: 52px;
+
+  /* Base / XL */
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+}
+
+.svgSmall {
+  margin-bottom: 45%;
+  height: 52px;
+
+  /* Base / XL */
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+}
